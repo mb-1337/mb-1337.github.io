@@ -46,6 +46,7 @@ a:hover {
 .center-container {
     width: 300px;
     text-align: center;
+    margin: 0 auto;
 }
 
 .card-row {
